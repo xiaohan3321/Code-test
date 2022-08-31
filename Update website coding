@@ -22,14 +22,25 @@
             <a href="#" class="w3-bar-item w3-button">Home</a>
             <a href="#contact" class="w3-bar-item w3-button">Contact</a>
         </div>
-    </header>
+    </header><br><br>
 
+<div>
+    <p style="color:purple;">How about converting your old or unused clothes. How about repurposing them into another way interesting. Are you interested in that? Contact me or come visit us to our store. We will always find some clothes which are unused for long time. And we dont understand how to utilize them.</p>
+    <p style="color:purple;">You just have to look into your closet. What are the clothes which you dont use at all or cannot use it? lets repurpose them and give a different look. Convert old jeans into a skirt or bag or dungre dress. Convert leggings/jeggings into pencil fit skirt. Attach tshirt and shirt and make it as a dress. Make your old bedsheets into pillow covers or covers for your devices. Covert adults clothes into kids clothes.</p><br><br>
+     <a href="https://sharonef.github.io/Code-test/Jeans%20to%20bag.jpg">Jeans to bag</a><br><br>
+<img src="https://sharonef.github.io/Code-test/Jeans%20to%20bag.jpg" width="200" height="250">
+<img src="https://SharonEF.github.io/Code-test/legging2skirt.png" width="200" height="250"><br><br>
+<a href="https://www.wikihow.com/Make-Old-Clothes-New">This link takes you to shows ways to repurpose old clothes</a><br><br>
+<iframe width="200" height="250" src="https://www.youtube.com/embed/y6UhAGoWLTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+   </div>
     <!-- Navbar on small screens -->
     <div class="w3-center w3-light-grey w3-padding-16 w3-hide-large w3-hide-medium">
         <div class="w3-bar w3-light-grey">
             <a href="#" class="w3-bar-item w3-button">Home</a>
             <a href="#contact" class="w3-bar-item w3-button">Contact</a>
         </div>
+
+        
     </div>
     
 
