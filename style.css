@@ -1,6 +1,7 @@
 * {
   border: 2px solid #247f9e;
 }
+/* Only text in bold difers */
 
 p {
   color: green;
@@ -26,3 +27,4 @@ a:hover { color: #09dc53;
 }
 [href*='This link takes you to shows ways to repurpose old clothes'] {color: #725a81;
 }
+.heading-background {background-color: #e010cf;}
