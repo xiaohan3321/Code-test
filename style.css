@@ -28,3 +28,12 @@ a:hover { color: #09dc53;
 [href*='This link takes you to shows ways to repurpose old clothes'] {color: #725a81;
 }
 .heading-background {background-color: #e010cf;}
+button {color: #04caf1; font-display: calc(20rem); font-weight: bold; text-align: center;}
+body { background-color:lightsalmon;
+}
+h1 {color:green;
+}
+h2 { color:green;
+}
+p { color:purple;
+}
